@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PExamKalpesh</string>
+    <string name="Doggy_date"><b>DOGGY</b> DATE</string>
+    <string name="log_in">LOG IN</string>
+    <string name="welcome_back">Welcome to home screen!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="create">Create Now</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
