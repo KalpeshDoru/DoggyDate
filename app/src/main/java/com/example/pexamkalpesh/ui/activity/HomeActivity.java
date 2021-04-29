@@ -21,7 +21,7 @@ public class HomeActivity extends BaseActivity {
         String userID = getIntent().getStringExtra("UserID");
         String status = getIntent().getStringExtra("Status");
 
-        binding.tvUserInfo.setText("User ID : " + userID + "\nStatus" + status);
+        binding.tvUserInfo.setText("User ID : " + userID + "\nStatus : " + status);
 
     }
 }
